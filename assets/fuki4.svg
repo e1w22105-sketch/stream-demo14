@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 263.47 133.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #040000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #231815;
+        font-family: TsukuARdGothicStd-B-90ms-RKSJ-H, 'FOT-TsukuARdGothic Std';
+        font-size: 15px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M140.93,104.13l-11.82,20.04c-2.34,3.97,1.94,8.53,6.19,6.6l41.35-26.63h32.26c28.75,0,52.06-22.75,52.06-50.82h0c0-28.07-23.31-50.82-52.06-50.82H54.56c-28.75,0-52.06,22.75-52.06,50.82h0c0,28.07,23.31,50.82,52.06,50.82h86.37Z"/>
+  <text class="cls-2" transform="translate(20.14 48.95)"><tspan x="0" y="0">背中が痒かったとき、コピー機が</tspan><tspan x="-2.14" y="18">会社で大声でおしゃべりしていた</tspan></text>
+</svg>

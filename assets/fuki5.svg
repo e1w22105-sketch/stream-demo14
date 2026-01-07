@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 263.47 133.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #040000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #231815;
+        font-family: TsukuARdGothicStd-B-90ms-RKSJ-H, 'FOT-TsukuARdGothic Std';
+        font-size: 15px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.5em;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M140.93,104.13l-11.82,20.04c-2.34,3.97,1.94,8.53,6.19,6.6l41.35-26.63h32.26c28.75,0,52.06-22.75,52.06-50.82h0c0-28.07-23.31-50.82-52.06-50.82H54.56c-28.75,0-52.06,22.75-52.06,50.82h0c0,28.07,23.31,50.82,52.06,50.82h86.37Z"/>
+  <text class="cls-2" transform="translate(40.75 40.42)"><tspan x="0" y="0">今朝、前にいた人が公園で</tspan><tspan x="-18.75" y="18">「承知いたしました」を噛んで</tspan><tspan x="-24.64" y="36">「醤油いたしました」と言った</tspan><tspan class="cls-3" x="185.36" y="36">。</tspan><tspan x="192.86" y="36"></tspan></text>
+</svg>
